@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: 0;
+}
+
+.title{
+    font-family: 'Inter';
+    color: #5B0B9B;
+    font-size: 96px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.faixa{
+   height: 100vh;
+   width: 50px;
+   position: absolute;
+   background-color: #5B0B9B;
+}
+
+.br{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 26vh;
+    
+}
+
+.en{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 1vh;
+}
